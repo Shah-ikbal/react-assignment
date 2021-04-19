@@ -1,0 +1,16 @@
+.language {
+  width: 10rem;
+  height: 10rem;
+  padding: 1rem;
+  border: 1px solid lightgrey;
+  border-radius: 2rem;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.language > img {
+  width: 90%;
+  height: 90%;
+}

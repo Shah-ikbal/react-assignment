@@ -1,0 +1,21 @@
+.app {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.app__input {
+  width: 60%;
+  height: 2rem;
+  border-radius: 0.3rem;
+  padding: 0.2rem 0.4rem;
+  border: 1px solid lightgray;
+  outline: gray;
+}
+
+.app__cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 1rem;
+}
